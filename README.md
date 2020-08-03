@@ -7,3 +7,5 @@ Overview:
 * Only uzbek, russian or cyrillic(uzbek)
 
 [Law Hunter Bot]: https://t.me/law_hunter_bot
+
+#### Before deploying to Heroku, set TOKEN for your bot!
