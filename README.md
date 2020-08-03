@@ -6,4 +6,4 @@ Overview:
 * Max number of results - 25
 * Only uzbek, russian or cyrillic(uzbek)
 
-[Law Hunter Bot]: t.me/law_hunter_bot
+[Law Hunter Bot]: https://t.me/law_hunter_bot
